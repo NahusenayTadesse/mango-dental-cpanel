@@ -90,7 +90,7 @@ const handleSignIn = async () => {
         </form>
         <div class="mt-8 text-center text-sm text-gray-600 dark:text-gray-400">
             Don&apos;t have an account?
-            <a href="/sign-up" class="text-blue-600 dark:text-blue-400 hover:underline font-medium">Sign up</a>
+            <a href="/signup" class="text-blue-600 dark:text-blue-400 hover:underline font-medium">Sign up</a>
         </div>
     </div>
 </div>
